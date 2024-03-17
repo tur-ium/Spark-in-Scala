@@ -1,5 +1,5 @@
-Apache Spark Exercises
-======================
+A Study of Spark in Scala
+=========================
 # Set up
 1. Download Spark from [here](https://spark.apache.org/downloads.html)
 2. Unzip 
