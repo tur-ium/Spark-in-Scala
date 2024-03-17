@@ -1,5 +1,7 @@
 A Study of Spark in Scala
 =========================
+![Mandatory LLM-generated image, just for the techiness and a bit of eye candy](img/spark-scala-logo.jpeg)
+
 # Set up
 1. Download Spark from [here](https://spark.apache.org/downloads.html)
 2. Unzip 
@@ -37,7 +39,7 @@ sudo apt-get install sbt
 
 
 # Spark web ui
-While Spark-shell is running, you can see the history of Spark jobs run via the Spark Shell application UI
+While Spark-shell is running, you can see current and historic Spark jobs via the Spark Shell application UI (by default port 4040): 
 [http://localhost:4040/jobs/](http://localhost:4040/jobs/)
 
 # How to use
